@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+librosa
+soundfile
+joblib
+xgboost
+opencv-python
+sounddevice
+onnx
+onnxruntime
+skl2onnx
+# openai-whisper
+# vosk
